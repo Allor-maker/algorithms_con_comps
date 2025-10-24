@@ -7,5 +7,6 @@ project(${PROJECT_NAME})
 add_subdirectory(include)
 add_subdirectory(src)
 add_subdirectory(test)
+add_subdirectory(experiments)
 
 message(STATUS "Done")
